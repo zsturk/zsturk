@@ -1,4 +1,5 @@
 ## Hi there 👋
+My interests: Data science 📊 x International relations 🌍
 
 <!--
 **zsturk/zsturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
